@@ -1,0 +1,20 @@
+body {
+  background-color: #f5edce !important;
+  display: block;
+  margin: 8px;
+}
+.croissant-photo {
+  max-width: 60%;
+  display: block;
+  margin: 30px auto;
+}
+footer {
+  text-align: center;
+}
+a {
+  color: green !important;
+  margin: 0 10px;
+}
+.mail {
+  color: blue !important;
+}
